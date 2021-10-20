@@ -6,7 +6,8 @@ title: Michael Fanning
 Account Manager-Crude Oil Marketing
 
 <div id="webaddress">
-<a href="michaeldfanning@yahoo.com">michaeldfanning@yahoo.com</a>
+<a href="mailto:michaeldfanning@yahoo.com">michaeldfanning@yahoo.com</a> |
+<a href="tel:9184179419">918.417.9419</a> 
 </div>
 
 ## About
@@ -26,6 +27,7 @@ I am a self-motivated individual with solid experience in crude marketing, custo
 
 `Feb 2015 - Present`
 __Sunoco Partners/Energy Transfer__, Tulsa, OK
+
 _Account Manager-Crude Oil Purchase and Marketing_
 * Crude Account Management- Manage diverse group of customer accounts. Develop pricing and economics related to crude purchase contracts.
 * Customer Relations- Assist customers in addressing issues in pricing, ticketing information, and division order. Communicates directly with customers regarding purchase related needs.
@@ -36,6 +38,7 @@ _Account Manager-Crude Oil Purchase and Marketing_
 
 `Sep 2012 - Feb 2015`
 __Baxter International, Inc (BAX)/Biolife__, Joplin, MO
+
 _Assistant Manager, Operations_
 * Certified in Six Sigma Yellow Belt; participates in kaizen practices toward lean processes to ensure efficient cost savings
 * Led customer relations team focused on customer optimization data, marketing to new customers, and process optimization.
@@ -49,6 +52,7 @@ _Assistant Manager, Operations_
 
 `May 2009 – Nov 2012`
 __Creoks Behavioral Health__, Tulsa, OK
+
 _Clinical Coordinator / MFT_
 * Managed daily operations of community mental health facility
 * Mentored staff on addressing needs of existing and potential customers
@@ -62,6 +66,7 @@ _Clinical Coordinator / MFT_
 
 `Apr 2007 – May 2009`
 __Tulsa Boys Home__, Tulsa, OK
+
 _YFT_
 * Led cross-functional team meetings to review progress of each client served
 * Developed reports, assessments, and recommendations for legal and state regulators
@@ -70,6 +75,7 @@ _YFT_
 
 `Feb 2006 – Mar 2007`
 __Arc of the Ozarks__, Springfield, MO
+
 _Program Supervisor_
 * Managed the operation of two group homes for individuals with development disabilities
 * Oversaw daily operations budget, expenditures and financial planning for facilities
@@ -78,6 +84,7 @@ _Program Supervisor_
 
 `Mar 2003 – May 2004`
 __St Gregory's University__
+
 _Coordinator / Rehab Specialist_
 * Focused rehabilitation services on health education, social skills, and community integration
 * Assisted client in successfully maintaining employment
@@ -94,8 +101,6 @@ Master of Business Administration, Finance
 `2003 - 2005`
 __Oklahoma Baptist University__
 Master of Arts
-
-- Sizar
 
 `1999 - 2002`
 __Southwest Baptist University__
